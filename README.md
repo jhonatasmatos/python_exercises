@@ -20,11 +20,11 @@ A mensagem "Reprovado", se a média for menor do que sete;</p>
 A mensagem "Aprovado com Distinção", se a média for igual a dez.</p>
 ```
 
-<p>6 - Faça um Programa que leia três números e mostre o maior deles.</p>
-<p>7 - Faça um Programa que leia três números e mostre o maior e o menor deles.</p>
-<p>8 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.</p>
-<p>9 - Faça um Programa que leia três números e mostre-os em ordem decrescente.</p>
-<p>10 - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+<p>6 - Faça um Programa que leia três números e mostre o maior deles. ✅</p>
+<p>7 - Faça um Programa que leia três números e mostre o maior e o menor deles. ✅</p>
+<p>8 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato. ✅</p>
+<p>9 - Faça um Programa que leia três números e mostre-os em ordem decrescente. ✅</p>
+<p>10 - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso. ✅<p>
 <p>11 - As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
 Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
 </p>
